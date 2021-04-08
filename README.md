@@ -1,6 +1,4 @@
 # 🔥🔥 LottieFiles Animation App [![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
-
-<br>
 Repo for The Article "How to Add cool LottieFiles After Effect Animations to You Flutter App" 
 <br>
 <br>
