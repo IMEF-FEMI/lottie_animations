@@ -15,7 +15,6 @@ Star⭐ the repo if this has helped you in any way.
 
 ## 📸 Demo
 <br>
-<br>
 
 
 <img src="demo/demo.gif"/> 
