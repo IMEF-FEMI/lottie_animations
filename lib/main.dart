@@ -1,7 +1,7 @@
-import 'package:after_effect_animation/error.dart';
-import 'package:after_effect_animation/loading.dart';
-import 'package:after_effect_animation/success.dart';
 import 'package:flutter/material.dart';
+import 'error.dart';
+import 'loading.dart';
+import 'success.dart';
 
 void main() {
   runApp(MyApp());
